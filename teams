@@ -12,4 +12,6 @@ System.out.println("Dark Mode Enabled");
 System.out.prinln(" Status Feature Added");
 /*System.out.println("Gray Mode Enabled");*/
 
+System.out.println("Emoji Enable")
+
 }
