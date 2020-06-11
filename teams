@@ -9,6 +9,6 @@ System.out.println("Received Message");
 
 System.out.println("Dark Mode Enabled");
 
-System.out.println("Gray Mode Enabled");
+/*System.out.println("Gray Mode Enabled");*/
 
 }
