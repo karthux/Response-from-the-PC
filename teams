@@ -5,5 +5,8 @@ public static void main(String args[]){
 System.out.println("Send Message");
 
 System.out.println("Received Message");
+//introduce dark mode
+
+System.out.println("Dark Mode Enabled");
 
 }
