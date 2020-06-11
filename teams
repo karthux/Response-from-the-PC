@@ -8,7 +8,7 @@ System.out.println("Received Message");
 //introduce dark mode
 
 System.out.println("Dark Mode Enabled");
-
+System.out.prinln(" Status Feature Added");
 /*System.out.println("Gray Mode Enabled");*/
 
 }
